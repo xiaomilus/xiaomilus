@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm xiaomilus 👋  
 
-<!--
-**xiaomilus/xiaomilus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Years Badge](https://badges.pufler.dev/years/xiaomilus)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/xiaomilus)](https://badges.pufler.dev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaomilus.visitor-badge)
 
-Here are some ideas to get you started:
+## I'm a Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on docker, kubernetes, RPA, AI etc.
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate on Open Source project
+- 🥅 Goals: Write more blogs
+- ⚡ Fun fact: I love to play basketball
+
+![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaomilus&show_icons=true)
